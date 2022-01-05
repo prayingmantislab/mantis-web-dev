@@ -88,27 +88,24 @@ const Banner = () => {
         <BannerContent>
           <Fade up>
             <RatingInfo>
-              <Rating rating={4} />
-              4.9 of 5 By <img src={microsoft} alt="Microsoft" />
+              <Rating rating={5} />
+              5 Stars excellence
             </RatingInfo>
           </Fade>
           <Fade up delay={100}>
             <Heading
               as="h1"
-              content="The Revolution of
-          Ultimate Platform to
-          monitor your task"
+              content="YOU DREAM IT, WE BUILD IT"
             />
           </Fade>
           <Fade up delay={200}>
             <Text
-              content="Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor incididunt labore dolore magna
-          ipsum dolor sit amet consectetur."
+              content="Mantis- Web and App Development"
             />
           </Fade>
           <Fade up delay={300}>
             <ButtonGroup>
-              <Button className="primary" title="Start Free trail" />
+              <Button className="primary" title="Lets Talk" />
               <Button
                 className="text"
                 variant="textButton"
