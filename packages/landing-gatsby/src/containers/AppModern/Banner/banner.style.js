@@ -78,6 +78,9 @@ export const BannerContent = styled.div`
       margin-bottom: 20px;
     }
   }
+  h3 {
+    color: white;
+  }
 
   p {
     color: rgba(255, 255, 255, 0.8);

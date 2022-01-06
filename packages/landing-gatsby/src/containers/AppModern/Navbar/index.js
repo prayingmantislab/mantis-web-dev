@@ -13,7 +13,7 @@ import Button from 'common/components/Button';
 import Container from 'common/components/UI/Container';
 import useOnClickOutside from 'common/hooks/useOnClickOutside';
 import NavbarWrapper, { MenuArea, MobileMenu, Search } from './navbar.style';
-import LogoImage from 'common/assets/image/appModern/logo-white.png';
+import LogoImage from 'common/assets/image/appModern/logo-mantis.png';
 import LogoImageAlt from 'common/assets/image/appModern/logo.png';
 
 const Navbar = () => {
@@ -139,7 +139,7 @@ const Navbar = () => {
           {/* end of search */}
 
           <AnchorLink href="#trail" offset={84}>
-            <Button className="trail" title="Try for Free" />
+            <Button className="trail" title="Lets Talk" />
           </AnchorLink>
 
           <Button
@@ -181,7 +181,7 @@ const Navbar = () => {
               </li>
             ))}
           </Scrollspy>
-          <Button title="Try for Free" />
+          <Button title="Lets Talk" />
         </Container>
       </MobileMenu>
       {/* end of mobile menu */}

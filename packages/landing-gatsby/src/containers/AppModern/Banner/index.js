@@ -89,7 +89,7 @@ const Banner = () => {
           <Fade up>
             <RatingInfo>
               <Rating rating={5} />
-              5 Stars excellence
+              5 Stars excellence of service
             </RatingInfo>
           </Fade>
           <Fade up delay={100}>
@@ -99,8 +99,9 @@ const Banner = () => {
             />
           </Fade>
           <Fade up delay={200}>
-            <Text
-              content="Mantis- Web and App Development"
+            <Heading
+              as="h3"
+              content="Web and App Development"
             />
           </Fade>
           <Fade up delay={300}>
