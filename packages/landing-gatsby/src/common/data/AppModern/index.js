@@ -120,7 +120,7 @@ export const features = {
 /* ------------------------------------ */
 // App slider data section
 /* ------------------------------------ */
-import appSlide1 from 'common/assets/image/appModern/appSlider1.png';
+import appSlide1 from 'common/assets/image/appModern/appSlider1.webp';
 import appSlide2 from 'common/assets/image/appModern/appSlider2.png';
 import appSlide3 from 'common/assets/image/appModern/appSlider3.png';
 import appIcon from 'common/assets/image/appModern/icon1.svg';
