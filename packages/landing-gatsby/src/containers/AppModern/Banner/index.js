@@ -24,8 +24,8 @@ import BannerWrapper, {
 } from './banner.style';
 
 import microsoft from 'common/assets/image/appModern/envato-icon.png';
-import videoBanner1 from 'common/assets/image/appModern/video-1.png';
-import videoBanner2 from 'common/assets/image/appModern/video-2.png';
+import videoBanner1 from 'common/assets/image/appModern/video-1.webp';
+import videoBanner2 from 'common/assets/image/appModern/video-2.webp';
 import circleBorder from 'common/assets/image/appModern/shape.svg';
 import mockup from 'common/assets/image/appModern/banner2.png';
 // close button for modal
@@ -87,10 +87,7 @@ const Banner = () => {
       <Container>
         <BannerContent>
           <Fade up>
-            <RatingInfo>
-              <Rating rating={5} />
-              5 Stars excellence of service
-            </RatingInfo>
+            
           </Fade>
           <Fade up delay={100}>
             <Heading
@@ -101,7 +98,7 @@ const Banner = () => {
           <Fade up delay={200}>
             <Heading
               as="h3"
-              content="Web and App Development"
+              content="Web and Mobile App Development"
             />
           </Fade>
           <Fade up delay={300}>
@@ -136,7 +133,7 @@ const Banner = () => {
         </BannerImage>
       </Container>
       <CustomerWrapper>
-        <Text content="Trusted by companies like:" />
+        {/* <Text content="Trusted by companies like:" />
         <ImageWrapper>
           {client.map((item) => (
             <Image
@@ -145,7 +142,7 @@ const Banner = () => {
               alt={item.title}
             />
           ))}
-        </ImageWrapper>
+        </ImageWrapper> */}
       </CustomerWrapper>
       <img
         className="bannerBottomShape"

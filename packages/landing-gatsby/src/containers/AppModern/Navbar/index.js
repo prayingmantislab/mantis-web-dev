@@ -99,6 +99,9 @@ const Navbar = () => {
     });
   };
 
+  function sendEmail() {
+    window.open="mailto:asi.meir@gmail.com"
+  }
   return (
     <NavbarWrapper className="navbar">
       <Container>
@@ -181,7 +184,7 @@ const Navbar = () => {
               </li>
             ))}
           </Scrollspy>
-          <Button title="Lets Talk" />
+          <Button title="Lets Talk" onClick="sendEmail()" />
         </Container>
       </MobileMenu>
       {/* end of mobile menu */}
