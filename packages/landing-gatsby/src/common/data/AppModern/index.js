@@ -364,9 +364,9 @@ import member6 from 'common/assets/image/appModern/6.png';
 import member7 from 'common/assets/image/appModern/7.png';
 
 export const teamportfolio = {
-  title: 'Meet our awesome team members, work behind the sense',
+  title: 'Mantis-Team',
   description:
-    'Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor incididunt labore dolore features that Lorem ipsum dolor sit amet consectetur.',
+    'My name is Asi Meir, I run Mantis web Developers . I am a full stack developer with a 3 years experience with Ruby on Rails, React and React Native and Nodejs',
 
   teammember: [
     {
