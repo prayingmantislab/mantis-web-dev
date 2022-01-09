@@ -310,7 +310,7 @@
       {
         "id": 1,
         "img": "../../assets/image/appModern/1.png",
-        "text": "Asi-Full Stack Developer"
+        "text": "Asi Meir-Full Stack Developer"
       }
     ]
   },
@@ -354,8 +354,8 @@
       {
         "id": 1,
         "icon": "../../assets/image/appModern/chat.svg",
-        "title": "Join the Community",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor incididunt labore dolore."
+        "title": "Images",
+        "description": "Images and vectors curtesy of vecteezy.com and unsplash.com."
       },
       {
         "id": 2,
