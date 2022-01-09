@@ -455,7 +455,7 @@ export const testimonial = {
 import chat from 'common/assets/image/appModern/chat.svg';
 import group from 'common/assets/image/appModern/group.svg';
 import github from 'common/assets/image/appModern/github.svg';
-import footerLogo from 'common/assets/image/appModern/logoWhite.png';
+import footerLogo from 'common/assets/image/appModern/logo-mantis.png';
 
 export const footer = {
   widgets: [

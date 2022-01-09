@@ -144,7 +144,7 @@
 
   "productData": {
     "slogan": "PRODUCT SHOWCASE",
-    "title": "Meet Client Satisfaction by using our product",
+    "title": "Meet Client Satisfaction by using our service",
     "slider": [
       {
         "id": 1,
@@ -355,19 +355,19 @@
         "id": 1,
         "icon": "../../assets/image/appModern/chat.svg",
         "title": "Images",
-        "description": "Images and vectors curtesy of vecteezy.com and unsplash.com."
+        "description": "Images and vectors courtesy of vecteezy.com and unsplash.com."
       },
       {
         "id": 2,
         "icon": "../../assets/image/appModern/group.svg",
-        "title": "Join in Chat Community",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor incididunt labore dolore."
+        "title": "Jobs",
+        "description": "We're always in the look for great talents, if you are a passionate JS mobile or front end developer, leave us a mail."
       },
       {
         "id": 3,
         "icon": "../../assets/image/appModern/github.svg",
-        "title": "Github Access",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor incididunt labore dolore."
+        "title": "Github Repos",
+        "description": "We are highly involved in the open source community and All projects appears in Github and can be cloned or forked."
       }
     ],
     "logo": "../../assets/image/appModern/logoWhite.png",

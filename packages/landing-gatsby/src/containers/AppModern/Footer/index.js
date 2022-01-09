@@ -57,12 +57,12 @@ const Footer = () => {
         </WidgetArea>
         {/* End of footer widgets area */}
         <MenuArea>
-          <Logo
+          {/* <Logo
             className="logo"
-            href="/appclassic"
+            href="#"
             logoSrc={logo.publicURL}
             title="App Classic"
-          />
+          /> */}
           <Menu>
             {menu.map((item) => (
               <MenuItem key={`footer-link${item.id}`}>
@@ -70,7 +70,7 @@ const Footer = () => {
               </MenuItem>
             ))}
           </Menu>
-          <CopyrightText>Copyright {year} By RedQ Inc</CopyrightText>
+          <CopyrightText>Copyright {year} By Mantis Inc</CopyrightText>
         </MenuArea>
         {/* End of footer menu area */}
       </Container>
