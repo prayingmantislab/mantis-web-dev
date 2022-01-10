@@ -412,7 +412,7 @@ export const teamportfolio = {
 /* ------------------------------------ */
 export const testimonial = {
   slogan: 'TESTIMONIAL',
-  title: 'Meet Client Satisfaction by using product',
+  title: 'This is what our Clients had to say:',
   reviews: [
     {
       id: 1,

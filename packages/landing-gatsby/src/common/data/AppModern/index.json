@@ -310,14 +310,14 @@
       {
         "id": 1,
         "img": "../../assets/image/appModern/1.png",
-        "text": "Asi Meir-Full Stack Developer"
+        "text": ""
       }
     ]
   },
 
   "testimonial": {
     "slogan": "TESTIMONIAL",
-    "title": "Meet Client Satisfaction by using product",
+    "title": "This is what our clients had to say:",
     "reviews": [
       {
         "id": 1,
