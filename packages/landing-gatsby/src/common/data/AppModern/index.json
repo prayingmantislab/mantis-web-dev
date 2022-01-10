@@ -60,7 +60,7 @@
 
   "features": {
     "slogan": "KEY FEATURES",
-    "title": "Why you choose our app",
+    "title": "Why you choose our team",
     "items": [
       {
         "id": 1,
@@ -73,8 +73,8 @@
         "id": 2,
         "color": "#ff4742",
         "icon": "../../assets/image/appModern/icon2.svg",
-        "title": "10 Times Award",
-        "description": "We are globally recognised for our services and won a lot of prices around the world ."
+        "title": "Grow Sales",
+        "description": "Mobile apps increase sales, purchase frequency and the range of items sold not only on a retailer's website but also in its stores. App users exhibit greater product returns. Retail mobile app users are likely to buy a more diverse range of products."
       },
       {
         "id": 3,
@@ -87,8 +87,8 @@
         "id": 4,
         "color": "#f18e47",
         "icon": "../../assets/image/appModern/icon4.svg",
-        "title": "Customization",
-        "description": "Client Satisfaction is our first priority and We are best at it. Keep In Touch for the best output. "
+        "title": "Gather Information",
+        "description": "We help you gather information from your users, their buying habbits and intersts the right way. "
       }
     ]
   },
@@ -304,7 +304,7 @@
 
   "teamportfolio": {
     "title": "The Mantis Team",
-    "description": "I'm Asi Meir a Full Stack web and mobile developer from Tel Aviv. I lead the  Mantis Team: Tal a Ux/Ui designer with a passion to design beautiful an engaging web and mobile experiences that will leave your users loyal. Shany an attentive Product manager wuth an ear for details and a talent to listen to your dreams and transform them into reality ",
+    "description": "I'm Asi Meir a Full Stack web and mobile developer from Tel Aviv. I lead the  Mantis Team: Tal a Ux/Ui designer with a passion to design beautiful an engaging web and mobile experiences that will leave your users loyal. Shany an attentive Product manager with an ear for details and a talent to listen to your dreams and needs so we can transform them into reality.",
 
     "teammember": [
       {
@@ -361,7 +361,7 @@
         "id": 2,
         "icon": "../../assets/image/appModern/group.svg",
         "title": "Jobs",
-        "description": "We're always in the look for great talents, if you are a passionate JS mobile or front end developer, leave us a mail."
+        "description": "We're always in the look for great talents, if you are a passionate React / React native Developer, send us your CV."
       },
       {
         "id": 3,

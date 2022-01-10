@@ -22,9 +22,9 @@ const Newsletter = ({
       <NewsletterWrapper>
         <Container>
           <Box {...textArea}>
-            <Heading content="Subscribe our newsletter" {...title} />
+            <Heading content="Subscribe to our newsletter" {...title} />
             <Text
-              content="Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor incididunt labore dolore"
+              content=""
               {...description}
             />
           </Box>
