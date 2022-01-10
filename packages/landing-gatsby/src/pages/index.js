@@ -45,7 +45,7 @@ const AppModern = () => {
             <Testimonial />
             <ProductSlide />
             <DesignedAndBuilt />
-            <PricingPolicy />
+            {/* <PricingPolicy /> */}
             <TeamPortfolio />
             <Newsletter />
           </ContentWrapper>
