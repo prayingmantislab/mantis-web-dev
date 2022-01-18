@@ -60,7 +60,7 @@
 
   "features": {
     "slogan": "KEY FEATURES",
-    "title": "Why you choose our team",
+    "title": "Why to choose our team",
     "items": [
       {
         "id": 1,
@@ -111,26 +111,26 @@
         "title": "App Slide 1"
       }
     ],
-    "title": "Smart Jackpots that you may love this anytime & anywhere",
-    "description": "The rise of mobile devices transforms the way we consume information entirely and the world's most elevant channels such as Facebook.",
+    "title": "Our Core Values",
+    "description": "This is what we belive in...",
     "features": [
       {
         "id": 1,
         "icon": "../../assets/image/appModern/icon1.svg",
-        "title": "Easy Invoicing",
-        "description": "Surprice your clients with professional looking invoices."
+        "title": "TENACIOUS",
+        "description": "Technology changes quickly we adapt and stay up to date to the latest trends and always push forward so that in the end you will have a fast and powerful App 💪🏽."
       },
       {
         "id": 2,
         "icon": "../../assets/image/appModern/icon1.svg",
-        "title": "UX Planning",
-        "description": "UI/UX Design by following and maintaining the latest trends ."
+        "title": "PROGRESSIVE",
+        "description": "Dreamers that know how to turn your ideas to realty, We build products and experiences that your users will really love ❤️."
       },
       {
         "id": 3,
         "icon": "../../assets/image/appModern/icon1.svg",
-        "title": "Customer Support",
-        "description": "A Dedicated support team will be always ready for you."
+        "title": "INTEGRITY",
+        "description": "We thrive on being trustworthy and respectful towards our clients, committed to your project and deadlines 🤝🏽."
       }
     ]
   },

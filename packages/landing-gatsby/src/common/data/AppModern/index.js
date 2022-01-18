@@ -80,7 +80,7 @@ import featureIcon4 from 'common/assets/image/appModern/icon4.svg';
 
 export const features = {
   slogan: 'KEY FEATURES',
-  title: 'Why you choose our team',
+  title: 'Why choose our team',
   items: [
     {
       id: 1,
