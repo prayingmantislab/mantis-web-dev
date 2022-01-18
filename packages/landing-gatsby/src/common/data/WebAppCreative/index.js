@@ -187,7 +187,7 @@ export const testimonials = [
 ];
 
 export const appIntegration = {
-  sectionTitle: 'Lets see what we integrate',
+  sectionTitle: 'Let's see what we integrate',
   sectionDesc: `We recently had to jump on 10+ different plugin across eight different countries to find the right owner and escalation process.`,
   apps: [
     {

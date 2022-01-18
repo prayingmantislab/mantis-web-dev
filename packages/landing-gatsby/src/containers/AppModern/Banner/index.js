@@ -103,8 +103,8 @@ const Banner = () => {
           </Fade>
           <Fade up delay={300}>
             <ButtonGroup>
-            <a href="mailto:'asi.meir@gmail.com?subject=Lets%20build%20your%20app&body=Tell%20us%20when%20it's%20convenient%20for%20you%20to%20chat%20with%20us">
-              <Button className="primary" title="Lets Talk" />
+            <a href="mailto:'asi.meir@gmail.com?subject=Let's%20build%20your%20app&body=Tell%20us%20when%20it's%20convenient%20for%20you%20to%20chat%20with%20us">
+              <Button className="primary" title="Let's Talk" />
               </a>
               <Button
                 className="text"

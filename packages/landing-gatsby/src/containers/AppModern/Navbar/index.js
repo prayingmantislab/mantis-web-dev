@@ -144,8 +144,8 @@ const Navbar = () => {
           {/* <AnchorLink href="mailto:asi.meir@gmail.com" offset={84}>
             {/* <Button className="trail" title="Lets Talk" /> */}
           {/* </AnchorLink> */} 
-            <a href="mailto:'asi.meir@gmail.com?subject=Lets%20build%20your%20app&body=Tell%20us%20when%20it's%20convenient%20for%20you%20to%20chat%20with%20us">
-            <Button className="trail" title="Lets Talk" />
+            <a href="mailto:'asi.meir@gmail.com?subject=Let's%20build%20your%20app&body=Tell%20us%20when%20it's%20convenient%20for%20you%20to%20chat%20with%20us">
+            <Button className="trail" title="Let's Talk" />
             </a>
 
           <Button
@@ -187,7 +187,7 @@ const Navbar = () => {
               </li>
             ))}
           </Scrollspy>
-          <Button title="Lets Talk" onClick="sendEmail()" />
+          <Button title="Let's Talk" onClick="sendEmail()" />
         </Container>
       </MobileMenu>
       {/* end of mobile menu */}
