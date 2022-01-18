@@ -140,10 +140,13 @@ const Navbar = () => {
             />
           </Search>
           {/* end of search */}
-
-          <AnchorLink href="#trail" offset={84}>
+          
+          {/* <AnchorLink href="mailto:asi.meir@gmail.com" offset={84}>
+            {/* <Button className="trail" title="Lets Talk" /> */}
+          {/* </AnchorLink> */} 
+            <a href="mailto:'asi.meir@gmail.com?subject=Lets%20build%20your%20app&body=Tell%20us%20when%20it's%20convenient%20for%20you%20to%20chat%20with%20us">
             <Button className="trail" title="Lets Talk" />
-          </AnchorLink>
+            </a>
 
           <Button
             className="menubar"
