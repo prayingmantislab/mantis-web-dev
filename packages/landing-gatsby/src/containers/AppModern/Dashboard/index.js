@@ -27,7 +27,9 @@ const DashboardSection = ({ row, col, title, btnStyle, description }) => {
   `);
   const ButtonGroup = () => (
     <Fragment>
-      <Button title="FREE TRAIL" {...btnStyle} />
+      <a href="mailto:'asi.meir@gmail.com?subject=Lets%20build%20your%20app&body=Tell%20us%20when%20it's%20convenient%20for%20you%20to%20chat%20with%20us">
+      <Button title="Let's Talk" {...btnStyle} />
+      </a>
     </Fragment>
   );
   return (
