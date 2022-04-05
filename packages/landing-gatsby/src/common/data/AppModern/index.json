@@ -303,8 +303,8 @@
   },
 
   "teamportfolio": {
-    "title": "The Mantis Team",
-    "description": "I'm Asi Meir a Full Stack web and mobile developer from Tel Aviv. I lead the  Mantis Team: Tal a Ux/Ui designer with a passion to design beautiful an engaging web and mobile experiences that will leave your users loyal. Shany an attentive Product manager with an ear for details and a talent to listen to your dreams and needs so we can transform them into reality.",
+    "title": "About Us",
+    "description": "Asi Meir a Full Stack web and mobile developer from Tel Aviv.building full stack and mobile apps using React and React Native and TypeScript for the client side and Node.js and GraphQL for the backend.collaborating with talented developers and Ux/Ui designers to help you build beautifly designed fast and modern web and mobile apps.",
 
     "teammember": [
       {
@@ -320,12 +320,21 @@
     "title": "This is what our clients had to say:",
     "reviews": [
       {
-        "id": 2,
+        "id": 1,
         "title": "Great overall experience",
         "description": "The work experience with Asi on our project was great, he was attentive and kept us update regarding the progress and was very professional all around, will definitely be in touch with our next project .",
-        "avatar": "https://randomuser.me/api/portraits/women/44.jpg",
-        "name": "Jeny Shani",
-        "designation": "RedQ.",
+        "avatar": "https://randomuser.me/api/portraits/women/43.jpg",
+        "name": "Shay",
+        "designation": "Haifa University",
+        "review": 5
+      },
+      {
+        "id": 2,
+        "title": "Great service and fast turnaround",
+        "description": "Great service and fast turnaround times. Very professional and have been able to fix some mistakes my designer made. I would recommend them for any web development job!",
+        "avatar": "https://randomuser.me/api/portraits/women/45.jpg",
+        "name": "Gal",
+        "designation": "Crown Store",
         "review": 5
       }
     ]
